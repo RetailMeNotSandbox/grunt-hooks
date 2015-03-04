@@ -1,0 +1,6 @@
+.git*
+tests/
+.DS_Store
+*.ignore
+.editorconfig
+Gruntfile.js

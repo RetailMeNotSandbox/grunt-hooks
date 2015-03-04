@@ -1,0 +1,30 @@
+{
+  "name": "@retailmenot/grunt-hooks",
+  "description": "Grunt multi-task for installing predefined git hooks.",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RetailMeNotSandbox/grunt-hooks.git"
+  },
+  "main": "lib/grunt-hooks.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "license": "MIT",
+  "author": "RetailMeNot Engineering",
+  "contributors": [
+    "Luke Zilioli <lzilioli@rmn.com>"
+  ],
+  "devDependencies": {
+    "@retailmenot/core-ui-eslintrc": "4.0.1",
+    "chai": "3.5.0",
+    "chai-fs": "0.1.0",
+    "grunt": "1.0.1",
+    "gruntify-eslint": "^3.1.0"
+  },
+  "dependencies": {
+    "inquirer": "1.1.3",
+    "lodash": "4.16.1",
+    "mkpath": "1.0.0"
+  }
+}

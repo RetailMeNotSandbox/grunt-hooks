@@ -1,0 +1,8 @@
+# Convenience, name anything with .ignore to have it ignored
+*.ignore
+
+node_modules/
+
+.DS_Store
+.AppleDouble
+.LSOverride
